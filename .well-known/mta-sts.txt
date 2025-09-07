@@ -4,6 +4,4 @@ mx: febit.eu
 mx: mxext1.mailbox.org
 mx: mxext2.mailbox.org
 mx: mxext3.mailbox.org
-mx: mx1.forwardemail.net
-mx: mx2.forwardemail.net
 max_age: 2419200
